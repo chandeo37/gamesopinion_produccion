@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgamesopinion"]=self["webpackChunkgamesopinion"]||[]).push([[443],{507:function(n,s,t){t.r(s),t.d(s,{default:function(){return r}});var u=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"about"},[s("h1",[n._v("This is an about page")])])}],i=t(1),a={},l=(0,i.Z)(a,u,e,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.15c0c527.js.map
